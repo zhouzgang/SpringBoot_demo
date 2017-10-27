@@ -34,5 +34,5 @@ eureka:
 #    name: microservice-simple-provider-user
 #    encoding: UTF-8
 #    java:
-#      source: 1.8.0_131
-#      target: 1.8.0_131
+#      source: 1.8.0_112-release
+#      target: 1.8.0_112-release

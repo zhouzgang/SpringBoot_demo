@@ -10,6 +10,7 @@
         <module name="microservice-discovery-euerka" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservice-simple-provider-user" />
+        <module name="spring-cache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
       <module name="microservice-discovery-euerka" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="spring-cache" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

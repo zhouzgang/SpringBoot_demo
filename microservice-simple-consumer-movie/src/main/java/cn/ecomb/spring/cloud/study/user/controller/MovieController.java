@@ -32,7 +32,7 @@ public class MovieController {
 //    }
 
 
-//    ----- 使用 feign
+/*    ----- 使用 feign */
 
     @Autowired
     private UserFeignClient userFeignClient;
