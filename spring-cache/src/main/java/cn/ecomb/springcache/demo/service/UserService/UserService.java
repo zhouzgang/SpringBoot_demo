@@ -7,9 +7,13 @@ import cn.ecomb.springcache.demo.Entity.User;
  */
 public interface UserService {
 
-    User findOne(long userId);
+    User getUserById(Long userId);
 
-    void remove(long userId);
+    User findOne(Long userId);
+
+    void remove(Long userId);
 
     void save(User user);
+
+    User update(User user);
 }
