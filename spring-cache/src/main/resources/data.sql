@@ -11,5 +11,5 @@ insert into course values (3, '英文');
 
 -- user_course data
 insert into user_course values (1, 1, 1, 71);
-insert into user_course values (1, 1, 2, 98);
-insert into user_course values (1, 1, 3, 88);
+insert into user_course values (2, 1, 2, 98);
+insert into user_course values (3, 1, 3, 88);
