@@ -1,5 +1,6 @@
 package cn.ecomb.springcache.demo.controller;
 
+import cn.ecomb.springcache.demo.support.exception.custom.ServiceException;
 import org.springframework.data.repository.query.Param;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CourseController {
 
     @GetMapping
-    public void getCourse(@Param("id") long id) throws Exception {
-        throw new Exception("getCourse()");
+    public void getCourse() throws Exception {
+        throw new ServiceException(50001, "service报错");
     }
 }

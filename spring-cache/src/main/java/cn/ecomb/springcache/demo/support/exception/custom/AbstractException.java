@@ -23,8 +23,19 @@ public abstract class AbstractException extends RuntimeException{
      */
     private String developerMessage;
 
-    public AbstractException() {
+    private AbstractException() {
         super();
+    }
+
+    public AbstractException(int code, String message) {
+        this.code = code;
+        this.message = message;
+    }
+
+    public AbstractException(int code, String message, String developerMessage) {
+        this.code = code;
+        this.message = message;
+        this.developerMessage = developerMessage;
     }
 
     public int getCode() {
