@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f38d199-1e50-42da-a368-f7207ef771d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/vo/req/UserParamVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/vo/resp/UserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/filter/SimpleFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/Simple1Interceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/Simple2Interceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/WebAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/listener/SimpleListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/listener/SimpleServletRequestListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cache/src/main/resources/ValidationMessages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/REMARK.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/spring-http.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/HttpStartApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/controller/TestController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/controller/vo/resp/UserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-http/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/src/main/java/cn/ecomb/springstatusmachine/demo/StateStartApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/src/main/resources/data.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/src/main/resources/logback-spring.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-state-machine/src/main/resources/schema.sql" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/StartApplication.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/Entity/Course.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/entity/Course.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/Entity/User.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/entity/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/StartApplication.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/Entity/Course.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/Entity/Course.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/Entity/User.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/Entity/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/controller/UserController.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/controller/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/repository/CourseRepository.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/repository/CourseRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/repository/UserRepository.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/repository/UserRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/service/UserService/UserService.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/service/UserService/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/ResponseBody.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/ResponseBody.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/aspect/HttpAspect.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/aspect/HttpAspect.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/GlobalExceptionHandler.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/GlobalExceptionHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ModuleException.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ModuleException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ServiceException.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ServiceException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ValidationException.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/ValidationException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/WebException.class" afterPath="$PROJECT_DIR$/spring-cache/target/classes/cn/ecomb/springcache/demo/support/exception/custom/WebException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/test-classes/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.class" afterPath="$PROJECT_DIR$/spring-cache/target/test-classes/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/CourseRepository.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/CourseRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserRepository.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/ResponseBody.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/ResponseBody.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/HttpAspect.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/HttpAspect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/exception/GlobalExceptionHandler.java" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/exception/GlobalExceptionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/spring-cache/src/main/resources/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/spring-cache/src/main/resources/logback-spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java" afterPath="$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/application.yml" afterPath="$PROJECT_DIR$/spring-cache/target/classes/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cache/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/spring-cache/target/classes/logback-spring.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -129,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleClientHttpRequestFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleClientHttpRequestFactory.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/http/client/SimpleClientHttpRequestFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
@@ -140,6 +82,19 @@
                 <element signature="e#4695#4696#0" expanded="true" />
                 <element signature="e#4734#4735#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -242,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/Entity/User.java" />
         <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserReository.java" />
         <option value="$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java" />
         <option value="$PROJECT_DIR$/spring-cache/pom.xml" />
@@ -293,6 +247,7 @@
         <option value="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/controller/vo/resp/UserVO.java" />
         <option value="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/controller/TestController.java" />
         <option value="$PROJECT_DIR$/spring-http/src/main/java/cn/ecomb/springhttp/demo/HttpStartApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -2647,7 +2602,7 @@
       <workItem from="1509590601086" duration="93000" />
       <workItem from="1509967705946" duration="594000" />
       <workItem from="1510016815644" duration="17224000" />
-      <workItem from="1510464725094" duration="77330000" />
+      <workItem from="1510464725094" duration="77896000" />
     </task>
     <servers />
   </component>
@@ -2663,7 +2618,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177664000" />
+    <option name="totallyTimeSpent" value="178230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2701,7 +2656,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17082785" sideWeight="0.69804215" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5086207" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49277267" sideWeight="0.63554215" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2759527" sideWeight="0.63554215" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20632531" sideWeight="0.4954008" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2734,14 +2689,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/javax/servlet/annotation/WebFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-392">
@@ -3174,6 +3121,17 @@
             <element signature="e#4695#4696#0" expanded="true" />
             <element signature="e#4734#4735#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
