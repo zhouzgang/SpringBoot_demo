@@ -1,6 +1,6 @@
 package cn.ecomb.springcache.demo.service.UserService;
 
-import cn.ecomb.springcache.demo.Entity.User;
+import cn.ecomb.springcache.demo.entity.User;
 
 /**
  * Created by zhouzhigang on 2017/10/27.

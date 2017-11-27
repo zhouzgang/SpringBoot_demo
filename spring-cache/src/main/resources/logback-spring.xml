@@ -133,7 +133,7 @@
     - 4.appender-ref：指定了名字为"STDOUT"的appender。
     -->
     <springProfile name="prod">
-        <logger name="cn.ecomb.springcache.demo.StartApplication" level="INFO" additivity="true">
+        <logger name="cn.ecomb.springcache.demo.CacheStartApplication" level="INFO" additivity="true">
             <appender-ref ref="STDOUT"/>
             <!--<appender-ref ref="DEBUG"/>-->
             <!--<appender-ref ref="EXCEPTION"/>-->

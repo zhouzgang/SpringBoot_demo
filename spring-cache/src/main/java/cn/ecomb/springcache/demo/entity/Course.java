@@ -1,4 +1,4 @@
-package cn.ecomb.springcache.demo.Entity;
+package cn.ecomb.springcache.demo.entity;
 
 import javax.persistence.*;
 

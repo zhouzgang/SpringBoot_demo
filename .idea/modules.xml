@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cache/spring-cache.iml" filepath="$PROJECT_DIR$/spring-cache/spring-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-http/spring-http.iml" filepath="$PROJECT_DIR$/spring-http/spring-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" filepath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" />
     </modules>
   </component>
 </project>

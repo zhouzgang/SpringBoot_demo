@@ -10,10 +10,17 @@ import org.slf4j.LoggerFactory;
 import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.validation.BindException;
+import org.springframework.validation.FieldError;
+import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.context.request.WebRequest;
+
+import javax.servlet.http.HttpServletRequest;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 全局异常处理切面
@@ -139,5 +146,25 @@ public class GlobalExceptionHandler {
         if (AnnotationUtils.findAnnotation(ex.getClass(), ResponseStatus.class) != null) {
             throw ex;
         }
+    }
+
+    //添加全局异常处理流程，根据需要设置需要处理的异常，本文以MethodArgumentNotValidException为例
+    @ExceptionHandler(value= {BindException.class})
+    public ResponseEntity<Object> MethodArgumentNotValidHandler(HttpServletRequest request,
+                                                                BindException ex) throws Exception {
+        //按需重新封装需要返回的错误信息
+        List<ResponseBody> invalidArguments = new ArrayList<>();
+        //解析原错误信息，封装后返回，此处返回非法的字段名称，原始值，错误信息
+        for (FieldError error : ex.getBindingResult().getFieldErrors()) {
+            ResponseBody responseBody = new ResponseBody();
+            responseBody.setMessage(error.getDefaultMessage());
+            invalidArguments.add(responseBody);
+        }
+        ResponseBody responseBody = new ResponseBody();
+        responseBody.setStatus(HttpStatus.INTERNAL_SERVER_ERROR.value())
+//                .setCode(ex.getBindingResult().getFieldErrors().get(0).getCode())
+                .setMessage(ex.getBindingResult().getFieldErrors().get(0).getDefaultMessage());
+
+        return new ResponseEntity<>(responseBody, HttpStatus.OK);
     }
 }

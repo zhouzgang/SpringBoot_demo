@@ -1,6 +1,6 @@
 package cn.ecomb.springcache.demo.repository;
 
-import cn.ecomb.springcache.demo.Entity.Course;
+import cn.ecomb.springcache.demo.entity.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

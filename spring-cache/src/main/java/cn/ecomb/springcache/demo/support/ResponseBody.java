@@ -55,6 +55,11 @@ public class ResponseBody {
         return this;
     }
 
+    public ResponseBody setCode(String code) {
+        this.code = Integer.parseInt(code);
+        return this;
+    }
+
     public String getMessage() {
         return message;
     }

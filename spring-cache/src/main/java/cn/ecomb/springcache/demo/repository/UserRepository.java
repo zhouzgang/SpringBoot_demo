@@ -1,6 +1,6 @@
 package cn.ecomb.springcache.demo.repository;
 
-import cn.ecomb.springcache.demo.Entity.User;
+import cn.ecomb.springcache.demo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
