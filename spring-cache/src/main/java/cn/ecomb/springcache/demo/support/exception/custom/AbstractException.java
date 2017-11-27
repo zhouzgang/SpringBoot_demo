@@ -1,5 +1,7 @@
 package cn.ecomb.springcache.demo.support.exception.custom;
 
+import java.util.List;
+
 /**
  * 自定义异常的父类
  *
@@ -17,6 +19,11 @@ public abstract class AbstractException extends RuntimeException{
      * 返回用户错误信息
      */
     private String message;
+
+    /**
+     * 校验时会存在多个字段错误的情况
+     */
+    private List<Error> errors;
 
     /**
      * 返回开发者错误信息
@@ -47,6 +54,15 @@ public abstract class AbstractException extends RuntimeException{
         return this;
     }
 
+    public List<Error> getErrors() {
+        return errors;
+    }
+
+    public AbstractException setErrors(List<Error> errors) {
+        this.errors = errors;
+        return this;
+    }
+
     @Override
     public String getMessage() {
         return message;
@@ -64,5 +80,68 @@ public abstract class AbstractException extends RuntimeException{
     public AbstractException setDeveloperMessage(String developerMessage) {
         this.developerMessage = developerMessage;
         return this;
+    }
+
+
+    /**
+     * 校验字段错误信息
+     */
+    class Error {
+
+        /**
+         * 错误编码
+         */
+        private String code;
+
+        /**
+         * 错误字段
+         */
+        private String field;
+
+        /**
+         * 错误信息
+         */
+        private String message;
+
+        public Error() {
+        }
+
+        public Error(String code, String message) {
+            this.code = code;
+            this.field = message;
+        }
+
+        public Error(String code, String field, String message) {
+            this.code = code;
+            this.field = field;
+            this.message = message;
+        }
+
+        public String getCode() {
+            return code;
+        }
+
+        public Error setCode(String code) {
+            this.code = code;
+            return this;
+        }
+
+        public String getField() {
+            return field;
+        }
+
+        public Error setField(String field) {
+            this.field = field;
+            return this;
+        }
+
+        public String getMessage() {
+            return message;
+        }
+
+        public Error setMessage(String message) {
+            this.message = message;
+            return this;
+        }
     }
 }
