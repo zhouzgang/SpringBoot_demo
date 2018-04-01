@@ -17,12 +17,19 @@
     <module>spring-cache</module>
       <module>spring-state-machine</module>
       <module>spring-http</module>
+    <module>mybatis-demo</module>
+      <module>spring_mybatis</module>
+      <module>spring_shrio</module>
+      <module>spring_quartz</module>
+      <module>spring_redis</module>
+      <module>spring-rabbitmq</module>
+      <module>spring_poi</module>
   </modules>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>1.5.8.RELEASE</version>
+    <version>1.5.4.RELEASE</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
@@ -39,12 +46,11 @@
       <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
 
-
-    <!--<dependency>-->
-      <!--<groupId>org.springframework.boot</groupId>-->
-      <!--<artifactId>spring-boot-starter-test</artifactId>-->
-      <!--<scope>test</scope>-->
-    <!--</dependency>-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+      <scope>test</scope>
+    </dependency>
 
   </dependencies>
 
@@ -54,7 +60,8 @@
       <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-dependencies</artifactId>
-        <version>Camden.SR4</version>
+        <!--<version>Camden.SR4</version>-->
+        <version>Dalston.SR1</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>

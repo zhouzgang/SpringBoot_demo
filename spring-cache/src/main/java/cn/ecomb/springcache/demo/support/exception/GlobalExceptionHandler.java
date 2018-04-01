@@ -148,7 +148,14 @@ public class GlobalExceptionHandler {
         }
     }
 
-    //添加全局异常处理流程，根据需要设置需要处理的异常，本文以MethodArgumentNotValidException为例
+    /**
+     * 添加全局异常处理流程，根据需要设置需要处理的异常，
+     * 本文以MethodArgumentNotValidException为例
+     * @param request 抛出的 BindException 异常
+     * @param ex 当前请求
+     * @return
+     * @throws Exception
+     */
     @ExceptionHandler(value= {BindException.class})
     public ResponseEntity<Object> MethodArgumentNotValidHandler(HttpServletRequest request,
                                                                 BindException ex) throws Exception {

@@ -12,7 +12,13 @@
         <module name="microservice-simple-provider-user" />
         <module name="spring-cache" />
         <module name="spring-http" />
+        <module name="spring-rabbitmq" />
         <module name="spring-state-machine" />
+        <module name="spring_mybatis" />
+        <module name="spring_poi" />
+        <module name="spring_quartz" />
+        <module name="spring_redis" />
+        <module name="spring_shrio" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +29,13 @@
       <module name="microservice-simple-provider-user" target="1.8" />
       <module name="spring-cache" target="1.8" />
       <module name="spring-http" target="1.8" />
+      <module name="spring-rabbitmq" target="1.8" />
       <module name="spring-state-machine" target="1.8" />
+      <module name="spring_mybatis" target="1.6" />
+      <module name="spring_poi" target="1.8" />
+      <module name="spring_quartz" target="1.8" />
+      <module name="spring_redis" target="1.8" />
+      <module name="spring_shrio" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

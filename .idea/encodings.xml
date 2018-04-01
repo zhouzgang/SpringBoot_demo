@@ -8,6 +8,12 @@
     <file url="file://$PROJECT_DIR$/microservice-simple-provider-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-state-machine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_poi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_shrio" charset="UTF-8" />
   </component>
 </project>
