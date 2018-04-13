@@ -10,6 +10,7 @@
         <module name="microservice-discovery-euerka" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservice-simple-provider-user" />
+        <module name="mybatis_demo" />
         <module name="spring-cache" />
         <module name="spring-http" />
         <module name="spring-rabbitmq" />
@@ -19,6 +20,7 @@
         <module name="spring_quartz" />
         <module name="spring_redis" />
         <module name="spring_shrio" />
+        <module name="spring_support" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +29,7 @@
       <module name="microservice-discovery-euerka" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="mybatis_demo" target="1.8" />
       <module name="spring-cache" target="1.8" />
       <module name="spring-http" target="1.8" />
       <module name="spring-rabbitmq" target="1.8" />
@@ -36,6 +39,7 @@
       <module name="spring_quartz" target="1.8" />
       <module name="spring_redis" target="1.8" />
       <module name="spring_shrio" target="1.8" />
+      <module name="spring_support" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

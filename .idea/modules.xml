@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" filepath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" filepath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cache/spring-cache.iml" filepath="$PROJECT_DIR$/spring-cache/spring-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-http/spring-http.iml" filepath="$PROJECT_DIR$/spring-http/spring-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_quartz/spring_quartz.iml" filepath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_redis/spring_redis.iml" filepath="$PROJECT_DIR$/spring_redis/spring_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_shrio/spring_shrio.iml" filepath="$PROJECT_DIR$/spring_shrio/spring_shrio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_support/spring_support.iml" filepath="$PROJECT_DIR$/spring_support/spring_support.iml" />
     </modules>
   </component>
 </project>

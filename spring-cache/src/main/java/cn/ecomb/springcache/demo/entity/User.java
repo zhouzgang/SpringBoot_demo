@@ -1,13 +1,14 @@
 package cn.ecomb.springcache.demo.entity;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
  * Created by zhouzhigang on 2017/6/18.
  */
 @Entity
-public class User {
+public class User implements Serializable{
 
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)

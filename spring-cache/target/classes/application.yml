@@ -20,11 +20,11 @@ spring:
     # Redis数据库索引（默认为0）
     database: 0
     # Redis服务器地址
-    host: localhost
+    host: 127.0.0.1
     # Redis服务器连接端口
     port: 6379
     # Redis服务器连接密码（默认为空）
-    password:
+#    password:
     # 连接池最大连接数（使用负值表示没有限制）
     max-active: 8
     # 连接池最大阻塞等待时间（使用负值表示没有限制）
@@ -44,21 +44,3 @@ logging:                                # 配置日志级别，让hibernate打�
     org.hibernate: INFO
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
-
-#--------------------第二步，添加eureka的配置------------
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
-  instance:
-    prefer-ip-address: true
-
-## INFO
-#info:
-#  app:
-#    name: spring-cache
-#    encoding: UTF-8
-#    java:
-#      source: 1.8.0_131
-#      target: 1.8.0_131

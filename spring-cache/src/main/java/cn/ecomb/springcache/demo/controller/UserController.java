@@ -4,6 +4,7 @@ import cn.ecomb.springcache.demo.entity.User;
 import cn.ecomb.springcache.demo.controller.vo.req.UserParamVO;
 import cn.ecomb.springcache.demo.service.UserService.UserService;
 import cn.ecomb.springcache.demo.service.UserService.impl.UserServiceIml;
+import cn.ecomb.springcache.demo.support.annotation.Retry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,11 +27,12 @@ public class UserController {
     private UserService userService;
 
     @GetMapping("/{id}")
+    @Retry(time = "5")
     public User findOne(@NotNull(message = "用户Id不能空")
                             @PathVariable Long id) {
         logger.warn(Thread.currentThread().getName());
         long start = System.currentTimeMillis();
-        User user = userService.getUserById(id);
+        User user = userService.getUserById(id.toString());
         long end = System.currentTimeMillis();
         long duration = end - start;
         logger.info("使用时间：{}", duration);
@@ -44,6 +46,6 @@ public class UserController {
 
     @GetMapping
     public User queryUser(@Validated UserParamVO userParamVO) {
-        return userService.findOne(1L);
+        return userService.findOne("1");
     }
 }

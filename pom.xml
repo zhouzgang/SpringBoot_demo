@@ -17,13 +17,14 @@
     <module>spring-cache</module>
       <module>spring-state-machine</module>
       <module>spring-http</module>
-    <module>mybatis-demo</module>
       <module>spring_mybatis</module>
       <module>spring_shrio</module>
       <module>spring_quartz</module>
       <module>spring_redis</module>
       <module>spring-rabbitmq</module>
       <module>spring_poi</module>
+    <module>mybatis_demo</module>
+      <module>spring_support</module>
   </modules>
 
   <parent>

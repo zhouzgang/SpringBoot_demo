@@ -3,6 +3,7 @@ package cn.ecomb.springcache.demo.service.UserService.impl;
 import cn.ecomb.springcache.demo.entity.User;
 import cn.ecomb.springcache.demo.repository.UserRepository;
 import cn.ecomb.springcache.demo.service.UserService.UserService;
+import cn.ecomb.springcache.demo.support.annotation.Retry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,17 +25,19 @@ public class UserServiceIml implements UserService {
 
     @Override
     @Cacheable(value="user", key = "#userId")
-    public User getUserById(Long userId) {
+    @Retry(time = "5")
+    public User getUserById(String userId) {
         logger.warn("第一次，线程编号：" + Thread.currentThread().getName());
         return findOne(userId);
     }
 
     @Override
     @Cacheable(value="user", key = "#userId")
-    public User findOne(Long userId) {
+    public User findOne(String userId) {
+
         logger.info("去数据库中获取...{}", userId);
         logger.warn("第二次，线程编号：" + Thread.currentThread().getName());
-        return userReository.findOne(userId);
+        return userReository.findOne(Long.parseLong(userId));
     }
 
     @Override

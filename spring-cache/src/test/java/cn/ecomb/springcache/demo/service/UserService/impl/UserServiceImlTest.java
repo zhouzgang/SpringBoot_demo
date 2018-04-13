@@ -18,7 +18,7 @@ public class UserServiceImlTest {
 
     @org.junit.Test
     public void findOne() throws Exception {
-        User user = userService.findOne(1L);
+        User user = userService.findOne("1");
         logger.info(String.valueOf(user));
     }
 

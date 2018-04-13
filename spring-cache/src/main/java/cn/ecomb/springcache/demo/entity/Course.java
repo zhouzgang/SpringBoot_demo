@@ -1,12 +1,13 @@
 package cn.ecomb.springcache.demo.entity;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  * Created by zhouzhigang on 2017/11/7.
  */
 @Entity
-public class Course {
+public class Course implements Serializable{
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
