@@ -14,6 +14,6 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="/src/main/resource/EmployeesMapper.xml"/>
+        <mapper resource="EmployeesMapper.xml"/>
     </mappers>
 </configuration>

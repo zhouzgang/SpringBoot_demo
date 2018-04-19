@@ -6,6 +6,7 @@ import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
@@ -16,7 +17,7 @@ public class MybatisApplication {
 
 	public static void main(String[] args) {
 		try {
-			InputStream inputStream = Resources.getUrlAsStream("/cn/ecomb/config/mybatisConfig.xml");
+			InputStream inputStream = new FileInputStream(Resources.getResourceAsFile("mybatisConfig.xml"));
 
 			SqlSessionFactoryBuilder sessionFactoryBuilder = new SqlSessionFactoryBuilder();
 			SqlSessionFactory sqlSessionFactory = sessionFactoryBuilder.build(inputStream);

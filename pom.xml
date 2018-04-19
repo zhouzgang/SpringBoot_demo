@@ -25,6 +25,7 @@
       <module>spring_poi</module>
     <module>mybatis_demo</module>
       <module>spring_support</module>
+      <module>spring_batch</module>
   </modules>
 
   <parent>
