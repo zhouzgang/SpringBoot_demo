@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-http/spring-http.iml" filepath="$PROJECT_DIR$/spring-http/spring-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" filepath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_batch/spring_batch.iml" filepath="$PROJECT_DIR$/spring_batch/spring_batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" filepath="$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_poi/spring_poi.iml" filepath="$PROJECT_DIR$/spring_poi/spring_poi.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_quartz/spring_quartz.iml" filepath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" />

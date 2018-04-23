@@ -1,4 +1,4 @@
-package cn.ecomb.spring_quartz.quartz;
+package cn.ecomb.spring.quartz.quartz;
 
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
@@ -15,7 +15,7 @@ public class QuartzUtil {
     private final static String TRIGGER_GROUP_NAME = "QUARTZ_TRIGGERGROUP_NAME";// 触发器组
     private static Logger log = LoggerFactory.getLogger(QuartzUtil.class);// 日志
 
-    public static void addJob(String jobName, String triggerName, Class<? extends Job> jobClass, int seconds)
+    public static void addJob(String jobName, String triggerName, Class<? extends cn.ecomb.spring.quartz.quartz.Job> jobClass, int seconds)
             throws SchedulerException {
         log.info("==================initialization=================");
         // 创建一个SchedulerFactory工厂实例

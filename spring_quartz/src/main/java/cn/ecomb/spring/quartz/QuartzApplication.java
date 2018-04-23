@@ -1,7 +1,7 @@
-package cn.ecomb.spring_quartz;
+package cn.ecomb.spring.quartz;
 
-import cn.ecomb.spring_quartz.quartz.JobOne;
-import cn.ecomb.spring_quartz.quartz.QuartzUtil;
+import cn.ecomb.spring.quartz.quartz.QuartzUtil;
+import cn.ecomb.spring.quartz.quartz.JobOne;
 import org.quartz.SchedulerException;
 
 /**

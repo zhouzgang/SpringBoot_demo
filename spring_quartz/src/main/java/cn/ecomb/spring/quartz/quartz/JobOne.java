@@ -1,4 +1,4 @@
-package cn.ecomb.spring_quartz.quartz;
+package cn.ecomb.spring.quartz.quartz;
 
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
