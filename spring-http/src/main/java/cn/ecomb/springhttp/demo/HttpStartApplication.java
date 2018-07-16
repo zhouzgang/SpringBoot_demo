@@ -28,4 +28,9 @@ public class HttpStartApplication {
 
         return new RestTemplate(requestFactory);
     }
+
+    /**
+     * 拦截器，对象转换，异常处理
+     * 
+     */
 }

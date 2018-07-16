@@ -6,6 +6,7 @@ package cn.ecomb.springcache.demo.support.validation;
  */
 public enum ExceptionCode {
 
+    /** 不能为空 */
     NULL(10001, "不能为空"),
     ;
 
@@ -19,4 +20,6 @@ public enum ExceptionCode {
 
     private int code;
     private String message;
+
+
 }
