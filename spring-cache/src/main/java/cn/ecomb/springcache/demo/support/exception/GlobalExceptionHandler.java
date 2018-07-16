@@ -5,6 +5,7 @@ import cn.ecomb.springcache.demo.support.exception.custom.ModuleException;
 import cn.ecomb.springcache.demo.support.exception.custom.ServiceException;
 import cn.ecomb.springcache.demo.support.exception.custom.ValidationException;
 import cn.ecomb.springcache.demo.support.exception.custom.WebException;
+import cn.ecomb.springcache.demo.support.utils.LoggerProxy;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.annotation.AnnotationUtils;
@@ -12,7 +13,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindException;
 import org.springframework.validation.FieldError;
-import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
@@ -33,6 +33,8 @@ import java.util.List;
 public class GlobalExceptionHandler {
 
     private static Logger logger = LoggerFactory.getLogger(GlobalExceptionHandler.class);
+
+    private static Logger defaultLogger = LoggerProxy.DEFAULT.create(GlobalExceptionHandler.class);
 
     /**
      * 所有系统异常拦截处理

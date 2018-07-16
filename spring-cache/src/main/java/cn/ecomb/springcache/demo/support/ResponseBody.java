@@ -1,7 +1,5 @@
 package cn.ecomb.springcache.demo.support;
 
-import org.springframework.http.HttpStatus;
-
 /**
  * Restful 统一数据返回对象封装类
  * @author zhouzhigang
