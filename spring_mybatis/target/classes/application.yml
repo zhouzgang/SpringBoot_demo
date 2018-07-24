@@ -4,3 +4,8 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
+
+## Mybatis 配置
+mybatis:
+  type-aliases-package: cn.ecomb.entity
+  mapper-locations: classpath*:/mapper/*.xml

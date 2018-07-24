@@ -13,10 +13,13 @@ public class QuartzUtil {
 
     private final static String JOB_GROUP_NAME = "QUARTZ_JOBGROUP_NAME";// 任务组
     private final static String TRIGGER_GROUP_NAME = "QUARTZ_TRIGGERGROUP_NAME";// 触发器组
-    private static Logger log = LoggerFactory.getLogger(QuartzUtil.class);// 日志
+    private static Logger log = LoggerFactory.getLogger(QuartzUtil.class);
 
-    public static void addJob(String jobName, String triggerName, Class<? extends cn.ecomb.spring.quartz.quartz.Job> jobClass, int seconds)
-            throws SchedulerException {
+    public static void addJob(String jobName,
+                              String triggerName,
+                              Class<? extends cn.ecomb.spring.quartz.quartz.Job> jobClass,
+                              int seconds) throws SchedulerException {
+
         log.info("==================initialization=================");
         // 创建一个SchedulerFactory工厂实例
         SchedulerFactory sf = new StdSchedulerFactory();
@@ -27,7 +30,11 @@ public class QuartzUtil {
         log.info("==============add the Job to Scheduler==================");
 
         // 用于描叙Job实现类及其他的一些静态信息，构建一个作业实例
-        JobDetail jobDetail = JobBuilder.newJob((Class<? extends org.quartz.Job>) jobClass).withIdentity(jobName, JOB_GROUP_NAME).build();
+        JobDetail jobDetail = JobBuilder
+                .newJob((Class<? extends org.quartz.Job>) jobClass)
+                .withIdentity(jobName, JOB_GROUP_NAME)
+                .build();
+
         // 构建一个触发器，规定触发的规则
         Trigger trigger = TriggerBuilder.newTrigger()// 创建一个新的TriggerBuilder来规范一个触发器
                 .withIdentity(triggerName, TRIGGER_GROUP_NAME)// 给触发器起一个名字和组名

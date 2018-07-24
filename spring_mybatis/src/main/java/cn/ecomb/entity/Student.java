@@ -58,7 +58,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "StudentTest{" +
                 "sno='" + sno + '\'' +
                 ", sname='" + sname + '\'' +
                 ", pinyin='" + pinyin + '\'' +

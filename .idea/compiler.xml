@@ -36,7 +36,7 @@
       <module name="spring-rabbitmq" target="1.8" />
       <module name="spring-state-machine" target="1.8" />
       <module name="spring_batch" target="1.8" />
-      <module name="spring_mybatis" target="1.6" />
+      <module name="spring_mybatis" target="1.8" />
       <module name="spring_poi" target="1.8" />
       <module name="spring_quartz" target="1.8" />
       <module name="spring_redis" target="1.8" />
