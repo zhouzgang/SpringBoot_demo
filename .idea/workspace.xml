@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f38d199-1e50-42da-a368-f7207ef771d9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_dubbo_springboot_spring_boot_starter_dubbo_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cache/spring-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/spring-cache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_batch/spring_batch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_batch/spring_batch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_poi/spring_poi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_poi/spring_poi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_redis/spring_redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_redis/spring_redis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_shrio/spring_shrio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_shrio/spring_shrio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_support/spring_support.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_support/spring_support.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,6 +28,9 @@
     <ignored path="$PROJECT_DIR$/mybatis_demo/target/" />
     <ignored path="$PROJECT_DIR$/spring_support/target/" />
     <ignored path="$PROJECT_DIR$/spring_batch/target/" />
+    <ignored path="$PROJECT_DIR$/spring-rest-template/target/" />
+    <ignored path="$PROJECT_DIR$/spring_dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/spring_dubbo_consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,65 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_mybatis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentTestMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/dao/StudentTestMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MybatisDemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentTestMapper.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml">
+      <file leaf-file-name="HttpStartApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-rest-template/src/main/java/cn/ecomb/springhttp/demo/HttpStartApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -236,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/uilts/RedisUtil.java" />
         <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/entity/T.java" />
         <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/entity/User.java" />
         <option value="$PROJECT_DIR$/spring_redis/src/test/java/cn/ecomb/redis/ApplicationTest.java" />
@@ -287,6 +214,7 @@
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java" />
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java" />
         <option value="$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -310,12 +238,35 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1373" />
@@ -379,8 +330,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -421,46 +370,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="ecomb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="ecomb" type="462c0819:PsiDirectoryNode" />
-              <item name="springhttp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="ecomb" type="462c0819:PsiDirectoryNode" />
-              <item name="springhttp" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2349,6 +2287,7 @@
       <workItem from="1531600395967" duration="2410000" />
       <workItem from="1532013356059" duration="15456000" />
       <workItem from="1533179928708" duration="629000" />
+      <workItem from="1533261333772" duration="295000" />
     </task>
     <servers />
   </component>
@@ -2385,7 +2324,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430531000" />
+    <option name="totallyTimeSpent" value="430826000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2397,13 +2336,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5026296" side_tool="true" weight="0.5599473" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.20135237" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.2012128" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Database" order="10" weight="0.20014992" />
@@ -2420,33 +2358,32 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6994741" weight="0.37713534" />
       <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4973704" weight="0.325887" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.63554215" weight="0.25823453" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.16923925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.23263507" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3298193" />
-      <window_info id="Web" side_tool="true" />
+      <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="6" sideWeight="0.50985545" side_tool="true" weight="0.27183735" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.62509394" weight="0.39421815" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.30052593" side_tool="true" visible="true" weight="0.37713534" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Properties" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="JProfiler" order="15" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.30052593" side_tool="true" visible="true" weight="0.37713534" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="JProfiler" order="15" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.62509394" weight="0.39421815" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49436513" weight="0.325887" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5086207" side_tool="true" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.37190083" side_tool="true" visible="true" weight="0.2654402" />
       <window_info anchor="right" id="Palette" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6280992" visible="true" weight="0.2654402" />
       <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4973704" weight="0.32720104" />
       <window_info id="Image Layers" order="5" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6280992" visible="true" weight="0.2654402" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.49137932" weight="0.25" />
       <window_info id="Capture Tool" order="7" />
@@ -2455,27 +2392,28 @@
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.63554215" weight="0.25823453" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5026296" side_tool="true" weight="0.5599473" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.62885046" weight="0.39421815" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.2539444" />
-      <window_info id="Favorites" order="6" sideWeight="0.50985545" side_tool="true" weight="0.27183735" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32938075" />
       <window_info anchor="bottom" id="JProfiler" order="15" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.68247694" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.20178704" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32806325" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.2539444" />
       <window_info anchor="right" id="Database" order="10" weight="0.20014992" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32806325" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" sideWeight="0.50985545" side_tool="true" weight="0.27183735" />
       <window_info id="Structure" order="1" sideWeight="0.49014455" weight="0.23709798" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5086207" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.6912096" weight="0.41787124" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32806325" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3298193" />
+      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.6912096" weight="0.41787124" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2723,13 +2661,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_poi/src/main/java/cn/ecomb/poi/controller/dto/BookDTO.java" />
     <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2901,20 +2832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_mybatis/target/classes/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2924,21 +2841,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/mapper/StudentMapper.xml" />
     <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/controller/StudentTestController.java" />
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/service/StudentService.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/dao/StudentTestMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -2946,24 +2870,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="814">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-rest-template/src/main/java/cn/ecomb/springhttp/demo/HttpStartApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
         </state>
       </provider>
     </entry>
