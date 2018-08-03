@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" filepath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cache/spring-cache.iml" filepath="$PROJECT_DIR$/spring-cache/spring-cache.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-http/spring-http.iml" filepath="$PROJECT_DIR$/spring-http/spring-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" filepath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_batch/spring_batch.iml" filepath="$PROJECT_DIR$/spring_batch/spring_batch.iml" />
