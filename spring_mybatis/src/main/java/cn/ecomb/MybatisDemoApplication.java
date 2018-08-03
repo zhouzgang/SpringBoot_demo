@@ -1,14 +1,9 @@
 package cn.ecomb;
 
-import cn.ecomb.support.dao.StudentTestMapper;
-import cn.ecomb.support.entity.StudentTest;
 import org.mybatis.spring.annotation.MapperScan;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
-
-import java.util.List;
 
 @SpringBootApplication
 @ComponentScan(basePackages = {"cn.ecomb"})

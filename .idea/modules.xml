@@ -10,8 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" filepath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cache/spring-cache.iml" filepath="$PROJECT_DIR$/spring-cache/spring-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-template/spring-rest-template.iml" filepath="$PROJECT_DIR$/spring-rest-template/spring-rest-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" filepath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_batch/spring_batch.iml" filepath="$PROJECT_DIR$/spring_batch/spring_batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_dubbo/spring_dubbo.iml" filepath="$PROJECT_DIR$/spring_dubbo/spring_dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_dubbo_consumer/spring_dubbo_consumer.iml" filepath="$PROJECT_DIR$/spring_dubbo_consumer/spring_dubbo_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" filepath="$PROJECT_DIR$/spring_mybatis/spring_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_poi/spring_poi.iml" filepath="$PROJECT_DIR$/spring_poi/spring_poi.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_quartz/spring_quartz.iml" filepath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" />

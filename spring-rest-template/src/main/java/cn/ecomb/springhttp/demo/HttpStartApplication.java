@@ -7,33 +7,30 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.Bean;
-import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 
+import javax.annotation.Resource;
+
+/**
+ * @author zhouzhigang
+ * @date 2018/8/2.
+ */
 @SpringBootApplication
 @EnableCaching
 public class HttpStartApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(HttpStartApplication.class);
 
+    @Resource(name = "ecombRestTemplateBuilder")
+    RestTemplateBuilder ecombRestTemplateBuilder;
+
     public static void main(String[] args) {
         SpringApplication.run(HttpStartApplication.class, args);
         logger.info("--->Spring http connection demo start success");
     }
 
-    @Bean
+    @Bean("ecombRestTemplate")
     RestTemplate restTemplate() {
-        SimpleClientHttpRequestFactory requestFactory = new SimpleClientHttpRequestFactory();
-        requestFactory.setConnectTimeout(1000);
-        requestFactory.setReadTimeout(1000);
-
-        return new RestTemplate(requestFactory);
-    }
-
-    RestTemplateBuilder restTemplateBuilder() {
-        RestTemplateBuilder restTemplateBuilder = new RestTemplateBuilder();
-//        restTemplateBuilder
-
-        return restTemplateBuilder;
+        return ecombRestTemplateBuilder.build();
     }
 }

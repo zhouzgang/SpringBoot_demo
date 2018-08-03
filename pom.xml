@@ -26,6 +26,8 @@
     <module>mybatis_demo</module>
       <module>spring_support</module>
       <module>spring_batch</module>
+      <module>spring_dubbo</module>
+    <module>spring_dubbo_consumer</module>
   </modules>
 
   <parent>
