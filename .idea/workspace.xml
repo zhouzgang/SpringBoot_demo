@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f38d199-1e50-42da-a368-f7207ef771d9" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_common_0_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_spring_boot_0_1_0.xml" />
@@ -20,6 +21,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,10 +46,14 @@
     <ignored path="$PROJECT_DIR$/mybatis_demo/target/" />
     <ignored path="$PROJECT_DIR$/spring_support/target/" />
     <ignored path="$PROJECT_DIR$/spring_batch/target/" />
+    <ignored path="$PROJECT_DIR$/spring-rest-template/target/" />
     <ignored path="$PROJECT_DIR$/spring_dubbo/target/" />
     <ignored path="$PROJECT_DIR$/spring_dubbo_consumer/target/" />
+<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/spring-rest-template/target/" />
     <ignored path="$PROJECT_DIR$/spring_prometheus/target/" />
+=======
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +73,6 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="cloud-demo">
       <favorite_root url="file://$PROJECT_DIR$/mybatis_demo" module="cloud-demo" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
@@ -109,6 +118,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-state-machine/src/main/java/cn/ecomb/springstatusmachine/demo/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,6 +177,13 @@
             <state relative-caret-position="105">
               <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
+=======
+      <file leaf-file-name="HttpStartApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-rest-template/src/main/java/cn/ecomb/springhttp/demo/HttpStartApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
             </state>
           </provider>
         </entry>
@@ -189,6 +206,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>LOUIS</find>
+      <find>StepExecution</find>
+      <find>Step</find>
       <find>jobExecution</find>
       <find>DataSource</find>
       <find>JobBuilderFactory</find>
@@ -216,9 +236,6 @@
       <find>d</find>
       <find>dao</find>
       <find>getStudentById</find>
-      <find>expa</find>
-      <find>exp</find>
-      <find>expand</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -228,6 +245,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -239,6 +257,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/entity/T.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/entity/User.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/test/java/cn/ecomb/redis/ApplicationTest.java" />
+        <option value="$PROJECT_DIR$/spring_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/uilts/RedisOperation.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/mq/TaskMQ.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/mq/AbstractTask.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/mq/RetryTask.java" />
+        <option value="$PROJECT_DIR$/spring_redis/src/main/java/cn/ecomb/redis/mq/SimpleTaskMQ.java" />
+        <option value="$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/MybatisApplication.java" />
+        <option value="$PROJECT_DIR$/mybatis_demo/src/main/resources/EmployeesMapper.xml" />
+        <option value="$PROJECT_DIR$/spring_batch/src/main/java/cn/ecomb/spring_batch/QuartzApplication.java" />
+        <option value="$PROJECT_DIR$/spring_batch/src/main/java/cn/ecomb/spring_batch/BatchApplication.java" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         <option value="$PROJECT_DIR$/spring_batch/src/main/java/cn/ecomb/spring/batch/config/My.java" />
         <option value="$PROJECT_DIR$/spring_batch/src/main/java/cn/ecomb/spring/batch/config/MyItemProcessor.java" />
         <option value="$PROJECT_DIR$/spring_batch/src/main/java/cn/ecomb/spring/batch/config/MyJobListener.java" />
@@ -274,8 +310,8 @@
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/service/StudentService.java" />
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java" />
-        <option value="$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml" />
         <option value="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/spring_dubbo_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring_dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/spring_dubbo/src/main/resources/Application.yml" />
@@ -290,6 +326,10 @@
         <option value="$PROJECT_DIR$/spring_prometheus/pom.xml" />
         <option value="$PROJECT_DIR$/spring_prometheus/src/main/java/cn/ecomb/prometheus/StateStartApplication.java" />
         <option value="$PROJECT_DIR$/spring_prometheus/src/main/resources/application.yml" />
+=======
+        <option value="$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
       </list>
     </option>
   </component>
@@ -313,10 +353,41 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="79" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     <option name="y" value="23" />
     <option name="width" value="1361" />
     <option name="height" value="877" />
@@ -364,7 +435,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>SpringJavaAutowiringInspection</id>
+            <id>SerializableHasSerialVersionUIDField</id>
           </State>
         </selected-state>
       </profile-state>
@@ -374,17 +445,8 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
+    <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="false" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -392,6 +454,7 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="cloud-demo" />
@@ -649,23 +712,97 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+=======
+          <expand>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-rest-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="hashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Thre&#9;PSI&#9;JAVA://java.lang.Thread&#10;ApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;spring.factories&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE-sources.jar!/META-INF/spring.factories&#10;Launcher&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;PlatformTransactionManager&#9;PSI&#9;JAVA://org.springframework.transaction.PlatformTransactionManager&#10;propagation&#9;PSI&#9;JAVA://org.springframework.transaction.annotation.Propagation&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;DriverManagerDataSource&#9;PSI&#9;JAVA://org.springframework.jdbc.datasource.DriverManagerDataSource&#10;SimpleThreadPool&#9;PSI&#9;JAVA://org.springframework.scheduling.quartz.SimpleThreadPoolTaskExecutor&#10;JobDataMap&#9;PSI&#9;JAVA://org.quartz.JobDataMap&#10;Step&#9;PSI&#9;JAVA://org.springframework.batch.core.Step&#10;JobExecution&#9;PSI&#9;JAVA://org.springframework.batch.core.JobExecution&#10;log&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/resources/logback-spring.xml&#10;TimeU&#9;PSI&#9;JAVA://java.util.concurrent.TimeUnit&#10;priority&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar!/org/apache/log4j/Priority.class&#10;Factory&#9;PSI&#9;JAVA://cn.ecomb.redis.RedisApplication#getConnectionFactory&#10;QuartzSchedulerThread&#9;PSI&#9;JAVA://org.quartz.core.QuartzSchedulerThread&#10;Poller&#9;PSI&#9;JAVA://org.apache.tomcat.util.net.NioEndpoint.Poller&#10;re&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring_poi/README.md&#10;RestTemplate&#9;PSI&#9;JAVA://org.springframework.boot.web.client.RestTemplateBuilder&#10;HttpCli&#9;PSI&#9;JAVA://org.apache.http.client.HttpClient&#10;Http&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/HttpAspect.java&#10;DispatcherServlet&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;MethodArgumentNotValidException&#9;PSI&#9;JAVA://org.springframework.web.bind.MethodArgumentNotValidException&#10;dispatchs&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;servletContext&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/javax/servlet/ServletContextListener.java&#10;ServletContext&#9;PSI&#9;JAVA://javax.servlet.ServletContext&#10;HandlerExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerExceptionResolver&#10;MissingServletRequestParameterException&#9;PSI&#9;JAVA://org.springframework.web.bind.MissingServletRequestParameterException&#10;Status&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.Status&#10;ResponseStatus&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ResponseStatus&#10;BindE&#9;PSI&#9;JAVA://org.springframework.validation.BindException&#10;SimpleMappingExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.SimpleMappingExceptionResolver&#10;DispatchServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ContextLoaderListener&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener&#10;TYpe&#9;PSI&#9;JAVA://java.lang.reflect.Type&#10;Number&#9;PSI&#9;JAVA://java.lang.Number&#10;hashM&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;atomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+<<<<<<< HEAD
+    <property name="SearchEverywhereHistoryKey" value="Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;hashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Thre&#9;PSI&#9;JAVA://java.lang.Thread&#10;ApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;spring.factories&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE-sources.jar!/META-INF/spring.factories&#10;Launcher&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;PlatformTransactionManager&#9;PSI&#9;JAVA://org.springframework.transaction.PlatformTransactionManager&#10;propagation&#9;PSI&#9;JAVA://org.springframework.transaction.annotation.Propagation&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;DriverManagerDataSource&#9;PSI&#9;JAVA://org.springframework.jdbc.datasource.DriverManagerDataSource&#10;SimpleThreadPool&#9;PSI&#9;JAVA://org.springframework.scheduling.quartz.SimpleThreadPoolTaskExecutor&#10;JobDataMap&#9;PSI&#9;JAVA://org.quartz.JobDataMap&#10;Step&#9;PSI&#9;JAVA://org.springframework.batch.core.Step&#10;JobExecution&#9;PSI&#9;JAVA://org.springframework.batch.core.JobExecution&#10;log&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/resources/logback-spring.xml&#10;TimeU&#9;PSI&#9;JAVA://java.util.concurrent.TimeUnit&#10;priority&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar!/org/apache/log4j/Priority.class&#10;Factory&#9;PSI&#9;JAVA://cn.ecomb.redis.RedisApplication#getConnectionFactory&#10;QuartzSchedulerThread&#9;PSI&#9;JAVA://org.quartz.core.QuartzSchedulerThread&#10;Poller&#9;PSI&#9;JAVA://org.apache.tomcat.util.net.NioEndpoint.Poller&#10;re&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring_poi/README.md&#10;RestTemplate&#9;PSI&#9;JAVA://org.springframework.boot.web.client.RestTemplateBuilder&#10;HttpCli&#9;PSI&#9;JAVA://org.apache.http.client.HttpClient&#10;Http&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/HttpAspect.java&#10;DispatcherServlet&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;MethodArgumentNotValidException&#9;PSI&#9;JAVA://org.springframework.web.bind.MethodArgumentNotValidException&#10;dispatchs&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;servletContext&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/javax/servlet/ServletContextListener.java&#10;ServletContext&#9;PSI&#9;JAVA://javax.servlet.ServletContext&#10;HandlerExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerExceptionResolver&#10;MissingServletRequestParameterException&#9;PSI&#9;JAVA://org.springframework.web.bind.MissingServletRequestParameterException&#10;Status&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.Status&#10;ResponseStatus&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ResponseStatus&#10;BindE&#9;PSI&#9;JAVA://org.springframework.validation.BindException&#10;SimpleMappingExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.SimpleMappingExceptionResolver&#10;DispatchServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ContextLoaderListener&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener&#10;TYpe&#9;PSI&#9;JAVA://java.lang.reflect.Type&#10;Number&#9;PSI&#9;JAVA://java.lang.Number&#10;hashM&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;atomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger" />
+    <property name="restartRequiresConfirmation" value="false" />
+=======
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mybatis_demo/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28525642" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="SearchEverywhereHistoryKey" value="Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;hashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Thre&#9;PSI&#9;JAVA://java.lang.Thread&#10;ApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;spring.factories&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE-sources.jar!/META-INF/spring.factories&#10;Launcher&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;PlatformTransactionManager&#9;PSI&#9;JAVA://org.springframework.transaction.PlatformTransactionManager&#10;propagation&#9;PSI&#9;JAVA://org.springframework.transaction.annotation.Propagation&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;DriverManagerDataSource&#9;PSI&#9;JAVA://org.springframework.jdbc.datasource.DriverManagerDataSource&#10;SimpleThreadPool&#9;PSI&#9;JAVA://org.springframework.scheduling.quartz.SimpleThreadPoolTaskExecutor&#10;JobDataMap&#9;PSI&#9;JAVA://org.quartz.JobDataMap&#10;Step&#9;PSI&#9;JAVA://org.springframework.batch.core.Step&#10;JobExecution&#9;PSI&#9;JAVA://org.springframework.batch.core.JobExecution&#10;log&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/resources/logback-spring.xml&#10;TimeU&#9;PSI&#9;JAVA://java.util.concurrent.TimeUnit&#10;priority&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar!/org/apache/log4j/Priority.class&#10;Factory&#9;PSI&#9;JAVA://cn.ecomb.redis.RedisApplication#getConnectionFactory&#10;QuartzSchedulerThread&#9;PSI&#9;JAVA://org.quartz.core.QuartzSchedulerThread&#10;Poller&#9;PSI&#9;JAVA://org.apache.tomcat.util.net.NioEndpoint.Poller&#10;re&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring_poi/README.md&#10;RestTemplate&#9;PSI&#9;JAVA://org.springframework.boot.web.client.RestTemplateBuilder&#10;HttpCli&#9;PSI&#9;JAVA://org.apache.http.client.HttpClient&#10;Http&#9;FILE&#9;file:///Users/zhouzhigang/Documents/workSpace/code/spring/cloud-demo/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/HttpAspect.java&#10;DispatcherServlet&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;MethodArgumentNotValidException&#9;PSI&#9;JAVA://org.springframework.web.bind.MethodArgumentNotValidException&#10;dispatchs&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;servletContext&#9;FILE&#9;jar:///Users/zhouzhigang/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/javax/servlet/ServletContextListener.java&#10;ServletContext&#9;PSI&#9;JAVA://javax.servlet.ServletContext&#10;HandlerExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerExceptionResolver&#10;MissingServletRequestParameterException&#9;PSI&#9;JAVA://org.springframework.web.bind.MissingServletRequestParameterException&#10;Status&#9;PSI&#9;JAVA://com.sun.org.apache.xerces.internal.util.Status&#10;ResponseStatus&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ResponseStatus&#10;BindE&#9;PSI&#9;JAVA://org.springframework.validation.BindException&#10;SimpleMappingExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.SimpleMappingExceptionResolver&#10;DispatchServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ContextLoaderListener&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener&#10;TYpe&#9;PSI&#9;JAVA://java.lang.reflect.Type&#10;Number&#9;PSI&#9;JAVA://java.lang.Number&#10;hashM&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;atomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/mybatis_demo/src" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -683,6 +820,7 @@
       <recent name="cn.ecomb.poi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/spring_prometheus/src/main/resources" />
       <recent name="$PROJECT_DIR$/spring_dubbo_consumer/src/main/resources" />
       <recent name="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao" />
@@ -695,6 +833,13 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cn.ecomb.spring.batch.config" />
       <recent name="cn.ecomb.shrio.service" />
+=======
+      <recent name="$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao" />
+      <recent name="$PROJECT_DIR$/spring_mybatis/src/main/resources/mappers" />
+      <recent name="$PROJECT_DIR$/spring_support/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support" />
+      <recent name="$PROJECT_DIR$/spring_batch/src/main/resources" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </key>
   </component>
   <component name="RestClientSettings">
@@ -828,44 +973,6 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8000" />
-          <option name="urlPath" value="/user/test" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="upload_file" />
-                <option name="value" value="" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/" />
-                <option name="value" value="06BAE967CAA4255BCE88CBC2E51D1EB0" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8080" />
           <option name="urlPath" value="/user/test" />
           <option name="headers">
             <list>
@@ -1040,7 +1147,7 @@
             </list>
           </option>
           <option name="textToSend" value="" />
-          <option name="filesToSend" value="$PROJECT_DIR$/../../../../boot/temp/WechatIMG39.png" />
+          <option name="filesToSend" value="D:/../boot/temp/WechatIMG39.png" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="biscuits">
@@ -1080,7 +1187,7 @@
           <option name="haveFileToSend" value="true" />
           <option name="isFileUpload" value="true" />
           <option name="textToSend" value="" />
-          <option name="filesToSend" value="$PROJECT_DIR$/../../../../boot/temp/WechatIMG39.png" />
+          <option name="filesToSend" value="D:/../boot/temp/WechatIMG39.png" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="biscuits">
@@ -1113,7 +1220,7 @@
           <option name="haveFileToSend" value="true" />
           <option name="isFileUpload" value="true" />
           <option name="textToSend" value="" />
-          <option name="filesToSend" value="$PROJECT_DIR$/../../../../boot/temp/WechatIMG39.png" />
+          <option name="filesToSend" value="D:/../boot/temp/WechatIMG39.png" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="biscuits">
@@ -2205,6 +2312,121 @@
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
+<<<<<<< HEAD
+=======
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/user/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="testUpdata" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/user/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="testUpdata" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/user/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="testUpdata" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/user/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
       </list>
     </option>
   </component>
@@ -2220,6 +2442,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.StateStartApplication">
     <configuration default="false" name="StudentMapperTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -2249,11 +2472,23 @@
     </configuration>
     <configuration default="false" name="MybatisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+=======
+  <component name="RunManager" selected="Application.MybatisDemoApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="MybatisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ecomb.MybatisApplication" />
+      <module name="mybatis_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         <pattern>
           <option name="PATTERN" value="cn.ecomb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="cn.ecomb.MybatisApplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -2266,49 +2501,57 @@
       <module name="mybatis_demo" />
       <envs />
       <method />
+=======
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </configuration>
-    <configuration default="false" name="MybatisDemoApplication" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.ecomb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MybatisDemoApplication" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.ecomb.MybatisDemoApplication" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="spring_mybatis" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ApplicationTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.ecomb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="spring-rabbitmq" />
+    </configuration>
+    <configuration name="QuartzApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ecomb.spring.quartz.QuartzApplication" />
+      <module name="spring_quartz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ecomb.spring.quartz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.ecomb" />
-      <option name="MAIN_CLASS_NAME" value="cn.ecomb.ApplicationTest" />
-      <option name="METHOD_NAME" value="hello" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
+<<<<<<< HEAD
       <envs />
       <patterns />
       <method />
@@ -2498,6 +2741,12 @@
       <module name="" />
       <envs />
       <method />
+=======
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
@@ -2532,7 +2781,6 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method />
     </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
       <option name="BCName" value="" />
@@ -2546,23 +2794,6 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -2571,11 +2802,54 @@
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method />
+    </configuration>
+    <configuration name="StudentMapperTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ecomb.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.ecomb.dao" />
+      <option name="MAIN_CLASS_NAME" value="cn.ecomb.dao.StudentMapperTest" />
+      <option name="METHOD_NAME" value="findByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StudentServiceTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ecomb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.ecomb.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.ecomb.service.StudentServiceTest" />
+      <option name="METHOD_NAME" value="findByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -2585,116 +2859,62 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
-      <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
+    <configuration name="BatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_batch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.batch.BatchApplication" />
     </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <configuration name="DiscoveryEuerkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-euerka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.DiscoveryEuerkaApplication" />
+    </configuration>
+    <configuration name="HttpStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-http" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springhttp.demo.HttpStartApplication" />
+    </configuration>
+    <configuration name="MicroserviceSimpleConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="microservice-simple-consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.user.ConsumerMovieApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
+    <configuration name="MybatisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ecomb.MybatisApplication" />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
+    <configuration name="PoiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_poi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.poi.PoiDemoApplication" />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
+    <configuration name="ProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-simple-provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.ProviderUserApplication" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cloud-demo" />
-      <envs />
-      <method />
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.RabbitmqApplication" />
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.redis.RedisApplication" />
     </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
+    <configuration name="ShrioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_shrio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.shrio.ShrioApplication" />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
+    <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springcache.demo.CacheStartApplication" />
     </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
+    <configuration name="StateStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-state-machine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springstatusmachine.demo.StateStartApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -2707,17 +2927,40 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -2727,57 +2970,8 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="ProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.ProviderUserApplication" />
-      <module name="microservice-simple-provider-user" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MicroserviceSimpleConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.user.ConsumerMovieApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <module name="microservice-simple-consumer-movie" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DiscoveryEuerkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.spring.cloud.study.DiscoveryEuerkaApplication" />
-      <module name="microservice-discovery-euerka" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springcache.demo.CacheStartApplication" />
-      <module name="spring-cache" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HttpStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springhttp.demo.HttpStartApplication" />
-      <module name="spring-http" />
-      <envs />
-      <method />
-    </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="StateStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ecomb.springstatusmachine.demo.StateStartApplication" />
@@ -2853,11 +3047,36 @@
         <item index="2" class="java.lang.String" itemvalue="Application.MybatisDemoApplication" />
         <item index="3" class="java.lang.String" itemvalue="Application.MybatisApplication" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.StudentMapperTest.findByName" />
+=======
+    <list>
+      <item itemvalue="Spring Boot.ProviderUserApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.DiscoveryEuerkaApplication" />
+      <item itemvalue="Spring Boot.StartApplication" />
+      <item itemvalue="Spring Boot.HttpStartApplication" />
+      <item itemvalue="Spring Boot.StateStartApplication" />
+      <item itemvalue="Spring Boot.MybatisDemoApplication" />
+      <item itemvalue="Spring Boot.ShrioApplication" />
+      <item itemvalue="Spring Boot.RabbitmqApplication" />
+      <item itemvalue="Spring Boot.RedisApplication" />
+      <item itemvalue="Spring Boot.PoiDemoApplication" />
+      <item itemvalue="Spring Boot.BatchApplication" />
+      <item itemvalue="JUnit.StudentMapperTest.findByName" />
+      <item itemvalue="Application.MybatisApplication" />
+      <item itemvalue="Application.QuartzApplication (1)" />
+      <item itemvalue="JUnit.StudentServiceTest.findByName" />
+      <item itemvalue="Application.MybatisDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisDemoApplication" />
+        <item itemvalue="Application.MybatisApplication" />
+        <item itemvalue="JUnit.StudentMapperTest.findByName" />
+        <item itemvalue="JUnit.StudentServiceTest.findByName" />
+        <item itemvalue="Application.QuartzApplication (1)" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_INHERITED,SHOW_INTERFACES" />
@@ -2933,18 +3152,24 @@
       <workItem from="1528093821613" duration="5372000" />
       <workItem from="1531325949094" duration="242000" />
       <workItem from="1531600395967" duration="2410000" />
+<<<<<<< HEAD
       <workItem from="1532013356059" duration="17548000" />
       <workItem from="1533140174235" duration="6736000" />
       <workItem from="1533459994137" duration="48000" />
       <workItem from="1533570651879" duration="631000" />
       <workItem from="1534942894325" duration="187000" />
       <workItem from="1539281876951" duration="1795000" />
+=======
+      <workItem from="1532013356059" duration="15456000" />
+      <workItem from="1533179928708" duration="629000" />
+      <workItem from="1533261333772" duration="295000" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplicationTest_hello - 2018.07.28 at 23h 57m 16s.xml">
-      <configuration name="ApplicationTest.hello" configurationId="JUnit" />
+    <history-entry file="StudentMapperTest_findByName - 2018.04.04 at 18h 48m 59s.xml">
+      <configuration name="StudentMapperTest.findByName" configurationId="JUnit" />
     </history-entry>
     <history-entry file="StudentMapperTest_findByName - 2018.04.13 at 13h 12m 45s.xml">
       <configuration name="StudentMapperTest.findByName" configurationId="JUnit" />
@@ -2975,7 +3200,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="441391000" />
+=======
+    <option name="totallyTimeSpent" value="430826000" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2987,6 +3216,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="79" y="23" width="1361" height="877" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -3025,48 +3255,90 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5086207" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.325887" sideWeight="0.49436513" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5026296" side_tool="true" weight="0.5599473" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.2012128" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="10" weight="0.20014992" />
+      <window_info id="Structure" order="1" sideWeight="0.49014455" side_tool="true" weight="0.23709798" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.49137932" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.68369645" weight="0.41787124" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32806325" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32938075" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.68247694" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6994741" weight="0.37713534" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4973704" weight="0.325887" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.63554215" weight="0.25823453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.23263507" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.3298193" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" sideWeight="0.50985545" side_tool="true" weight="0.27183735" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.30052593" side_tool="true" visible="true" weight="0.37713534" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="JProfiler" order="15" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.62509394" weight="0.39421815" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49436513" weight="0.325887" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5086207" side_tool="true" weight="0.25" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5599473" sideWeight="0.5026296" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20178704" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20014992" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23709798" sideWeight="0.49014455" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49137932" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41787124" sideWeight="0.6912096" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39421815" sideWeight="0.62885046" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2654402" sideWeight="0.37190083" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2654402" sideWeight="0.6280992" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68247694" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5086207" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720104" sideWeight="0.4973704" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25823453" sideWeight="0.63554215" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2539444" sideWeight="0.4954008" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27183735" sideWeight="0.50985545" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="REST Client" order="12" sideWeight="0.37190083" side_tool="true" visible="true" weight="0.2654402" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4973704" weight="0.32720104" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6280992" visible="true" weight="0.2654402" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.49137932" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.63554215" weight="0.25823453" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5026296" side_tool="true" weight="0.5599473" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.62885046" weight="0.39421815" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32938075" />
+      <window_info anchor="bottom" id="JProfiler" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.68247694" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.20178704" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954008" visible="true" weight="0.2539444" />
+      <window_info anchor="right" id="Database" order="10" weight="0.20014992" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32806325" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Favorites" order="6" sideWeight="0.50985545" side_tool="true" weight="0.27183735" />
+      <window_info id="Structure" order="1" sideWeight="0.49014455" weight="0.23709798" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5086207" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32806325" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.3298193" />
+      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.6912096" weight="0.41787124" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -3144,7 +3416,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java</url>
-          <line>29</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
@@ -3298,100 +3570,139 @@
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-rest-template/src/main/java/cn/ecomb/springhttp/demo/controller/TestController.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java</url>
-          <line>611</line>
-          <properties />
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="118" />
+      <option name="time" value="116" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/dao/StudentTestMapper.java">
+=======
+    <entry file="file://$PROJECT_DIR$/spring_poi/src/main/java/cn/ecomb/poi/controller/dto/BookDTO.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/controller/StudentTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <folding>
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/mapper/StudentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.4.RELEASE/spring-boot-dependencies-1.5.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="510" column="12" selection-start-line="510" selection-start-column="12" selection-end-line="510" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.4.RELEASE/spring-context-4.2.4.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/annotation/MapperScan.java" />
+    <entry file="file://$PROJECT_DIR$/spring_support/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/TestRedis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/bind/annotation/GetMapping.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/entity/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/test/java/cn/ecomb/service/StudentServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/dao/StudentMapper.java" />
+    <entry file="file://$PROJECT_DIR$/spring_support/src/test/java/cn/ecomb/support/dao/StudentMapperTest.java" />
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/test/java/cn/ecomb/dao/StudentMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/spring-rabbitmq/src/test/java/cn/ecomb/ApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -3410,12 +3721,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentDao.xml" />
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/dao/EmployeesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-rabbitmq/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/entity/Employees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/plugin/ExamplePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
+<<<<<<< HEAD
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
@@ -3480,11 +3806,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+=======
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/resources/mybatisConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/MybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="244">
           <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
         </state>
@@ -3496,30 +3833,63 @@
           <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
+=======
+        <state relative-caret-position="264">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE-sources.jar!/org/springframework/boot/web/client/RootUriTemplateHandler.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Executable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/resources/EmployeesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/annotations/Flush.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/binding/MapperProxy.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="244">
           <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+=======
+        <state relative-caret-position="154">
+          <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/util/UriTemplateHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/binding/MapperMethod.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cache/target/classes/application.yml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="540">
           <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+=======
+        <state relative-caret-position="28">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequest.java">
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/target/classes/application.yml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+=======
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/www/http/HttpClient.class">
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/mapper/StudentMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/controller/StudentTestController.java" />
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/service/StudentService.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="244">
           <caret line="100" column="14" lean-forward="false" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
         </state>
@@ -3598,11 +3968,44 @@
         <state relative-caret-position="240">
           <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
           <folding />
+=======
+        <state relative-caret-position="237">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-rest-template/src/main/java/cn/ecomb/springhttp/demo/support/resource/CustomRestTemplateCustomizer.java">
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/resources/mapper/StudentTestMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/MybatisDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_support/src/main/java/cn/ecomb/support/dao/StudentTestMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/java/cn/ecomb/dao/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="75">
           <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
@@ -3638,11 +4041,30 @@
         <state relative-caret-position="80">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
+=======
+        <state relative-caret-position="231">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-46">
           <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
@@ -3696,6 +4118,10 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="294">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+>>>>>>> 9cb4c1e42382371c6b1d45a5bb9a518b2f3522bc
         </state>
       </provider>
     </entry>
