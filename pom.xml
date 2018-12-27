@@ -28,7 +28,12 @@
       <module>spring_batch</module>
       <module>spring_dubbo</module>
     <module>spring_dubbo_consumer</module>
+<<<<<<< HEAD
       <module>spring_kafka</module>
+=======
+      <module>spring_prometheus</module>
+      <module>spring-concurrent</module>
+      >>>>>>> 08eed27e203405dd45d77c6a6d266a6909bbc62e
   </modules>
 
   <parent>
