@@ -24,7 +24,7 @@ public class EcombRestTemplateBuilder {
 
     private static final String HTTP_HOST = "http://localhost:8080";
 
-    @Bean("ecombRestTemplateBuilder")
+    @Bean(name = "ecombRestBuilder")
     RestTemplateBuilder restTemplateBuilder() {
         RestTemplateBuilder restTemplateBuilder = new RestTemplateBuilder();
         restTemplateBuilder.rootUri(HTTP_HOST);

@@ -28,6 +28,7 @@
       <module>spring_batch</module>
       <module>spring_dubbo</module>
     <module>spring_dubbo_consumer</module>
+      <module>spring_kafka</module>
   </modules>
 
   <parent>

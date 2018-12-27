@@ -19,6 +19,7 @@
         <module name="spring_batch" />
         <module name="spring_dubbo" />
         <module name="spring_dubbo_consumer" />
+        <module name="spring_kafka" />
         <module name="spring_mybatis" />
         <module name="spring_poi" />
         <module name="spring_quartz" />
@@ -42,6 +43,7 @@
       <module name="spring_batch" target="1.8" />
       <module name="spring_dubbo" target="1.8" />
       <module name="spring_dubbo_consumer" target="1.8" />
+      <module name="spring_kafka" target="1.8" />
       <module name="spring_mybatis" target="1.8" />
       <module name="spring_poi" target="1.8" />
       <module name="spring_quartz" target="1.8" />
