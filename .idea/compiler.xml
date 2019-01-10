@@ -10,15 +10,14 @@
         <module name="microservice-discovery-euerka" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservice-simple-provider-user" />
+        <module name="mybatis-demo" />
         <module name="mybatis_demo" />
         <module name="spring-cache" />
-        <module name="spring-http" />
         <module name="spring-rabbitmq" />
         <module name="spring-state-machine" />
         <module name="spring_batch" />
         <module name="spring_dubbo" />
         <module name="spring_dubbo_consumer" />
-        <module name="spring_mybatis" />
         <module name="spring_poi" />
         <module name="spring_prometheus" />
         <module name="spring_quartz" />
@@ -33,16 +32,14 @@
       <module name="microservice-discovery-euerka" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="mybatis-demo" target="1.8" />
       <module name="mybatis_demo" target="1.8" />
       <module name="spring-cache" target="1.8" />
-      <module name="spring-http" target="1.8" />
       <module name="spring-rabbitmq" target="1.8" />
-      <module name="spring-rest-template" target="1.8" />
       <module name="spring-state-machine" target="1.8" />
       <module name="spring_batch" target="1.8" />
       <module name="spring_dubbo" target="1.8" />
       <module name="spring_dubbo_consumer" target="1.8" />
-      <module name="spring_mybatis" target="1.8" />
       <module name="spring_poi" target="1.8" />
       <module name="spring_prometheus" target="1.8" />
       <module name="spring_quartz" target="1.8" />
