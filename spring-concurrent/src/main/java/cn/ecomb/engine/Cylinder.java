@@ -1,6 +1,9 @@
 package cn.ecomb.engine;
 
+import cn.ecomb.engine.dto.Request;
 import cn.ecomb.engine.logic.LogicHandler;
+
+import java.util.concurrent.CountDownLatch;
 
 /**
  * @author zhouzhigang
@@ -8,22 +11,31 @@ import cn.ecomb.engine.logic.LogicHandler;
  */
 public class Cylinder implements Runnable{
 
-    private Resquest resquest;
+    private CountDownLatch latch;
+
+    private Request request;
 
     private LogicHandler head;
 
     public Cylinder() {
     }
 
-    public Cylinder(Resquest resquest, LogicHandler head) {
-        this.resquest = resquest;
+    public Cylinder(CountDownLatch latch, Request request, LogicHandler head) {
+        this.latch = latch;
+        this.request = request;
         this.head = head;
     }
 
     @Override
     public void run() {
-        head.handleRequest(resquest);
-        System.out.println("气缸输出一点动能！！！");
-        resquest.getResponse().setBody("完成功能");
+        try {
+            head.handleRequest(request);
+            System.out.println("气缸输出一点动能！！！");
+            Thread.sleep(1);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
+            this.latch.countDown();
+        }
     }
 }

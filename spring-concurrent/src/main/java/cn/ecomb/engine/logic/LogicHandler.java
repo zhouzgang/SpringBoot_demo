@@ -1,6 +1,6 @@
 package cn.ecomb.engine.logic;
 
-import cn.ecomb.engine.Resquest;
+import cn.ecomb.engine.dto.Request;
 
 /**
  * @author zhouzhigang
@@ -10,7 +10,7 @@ public abstract class LogicHandler {
 
     protected LogicHandler nextHandler;
 
-    public abstract void handleRequest(Resquest resquest);
+    public abstract void handleRequest(Request request);
 
     public LogicHandler getNextHandler() {
         return nextHandler;

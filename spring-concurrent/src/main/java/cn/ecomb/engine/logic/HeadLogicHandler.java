@@ -1,6 +1,6 @@
 package cn.ecomb.engine.logic;
 
-import cn.ecomb.engine.Resquest;
+import cn.ecomb.engine.dto.Request;
 
 import java.util.Objects;
 
@@ -11,10 +11,10 @@ import java.util.Objects;
 public class HeadLogicHandler extends LogicHandler {
 
     @Override
-    public void handleRequest(Resquest resquest) {
+    public void handleRequest(Request request) {
         System.out.println(Thread.currentThread().getName() + " 逻辑链头部开启");
         if (Objects.nonNull(nextHandler)) {
-            nextHandler.handleRequest(resquest);
+            nextHandler.handleRequest(request);
         }
     }
 

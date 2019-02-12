@@ -1,6 +1,6 @@
 package cn.ecomb.engine.logic;
 
-import cn.ecomb.engine.Resquest;
+import cn.ecomb.engine.dto.Request;
 
 import java.util.Objects;
 
@@ -11,10 +11,14 @@ import java.util.Objects;
 public class SignalFilterLogicHandler extends LogicHandler {
 
     @Override
-    public void handleRequest(Resquest resquest) {
+    public void handleRequest(Request request) {
         System.out.println(Thread.currentThread().getName() + " 执行无效信号过滤");
+        if ("R1".equals(request.getParam())) {
+            request.getResponse().setBody("R1->SignalFilterLogicHandler");
+            return;
+        }
         if (Objects.nonNull(nextHandler)) {
-            nextHandler.handleRequest(resquest);
+            nextHandler.handleRequest(request);
         }
     }
 

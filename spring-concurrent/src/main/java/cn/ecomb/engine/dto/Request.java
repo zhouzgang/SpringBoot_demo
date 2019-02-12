@@ -1,18 +1,23 @@
-package cn.ecomb.engine;
+package cn.ecomb.engine.dto;
+
+import lombok.Data;
 
 /**
  * @author zhouzhigang
  * @date 2018-12-26.
  */
-public class Resquest {
+@Data
+public class Request {
     private String param;
-
+    private AppInfo appInfo;
+    private ClientInfo clientInfo;
+    private RequestParam requestParam;
     private Response response;
 
-    public Resquest() {
+    public Request() {
     }
 
-    public Resquest(String param) {
+    public Request(String param) {
         this.param = param;
     }
 
@@ -20,7 +25,7 @@ public class Resquest {
         return param;
     }
 
-    public Resquest setParam(String param) {
+    public Request setParam(String param) {
         this.param = param;
         return this;
     }
@@ -29,7 +34,7 @@ public class Resquest {
         return response;
     }
 
-    public Resquest setResponse(Response response) {
+    public Request setResponse(Response response) {
         this.response = response;
         return this;
     }
