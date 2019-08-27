@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author zhouzhigang
  * @date 2017/11/26.
@@ -21,13 +24,33 @@ public class TestController {
 
     @GetMapping
     public UserVO testRestTemplate() {
-        UserVO userVO = restTemplate.getForObject("http://127.0.0.1:8000/user/{userId}",
-                UserVO.class,
-                "1");
+        UserVO userVO = restTemplate.getForObject("http://lx2.test.papakaka.com/api/movie/1561",
+                UserVO.class);
         logger.info("----->result: {}", userVO);
 
         return userVO;
     }
+
+    @GetMapping("/t")
+    public List<UserVO> RestTemplate() {
+        UserVO userVO = new UserVO();
+        userVO.setAge(1);
+        userVO.setId(12L);
+        userVO.setName("fdsafs");
+        userVO.setUsername("fdsafs");
+        UserVO userVO1 = new UserVO();
+        userVO1.setAge(2);
+        userVO1.setId(12L);
+        userVO1.setName("fdsaf21221122s");
+        userVO1.setUsername("22222");
+        List list = new ArrayList();
+        list.add(userVO);
+        list.add(userVO1);
+        logger.info("hahahhahahahahahahahahahhahahah");
+        return list;
+    }
+
+
 
     @Autowired
     private RestTemplate restTemplate;

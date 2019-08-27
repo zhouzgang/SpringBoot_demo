@@ -13,11 +13,19 @@
         <module name="mybatis-demo" />
         <module name="mybatis_demo" />
         <module name="spring-cache" />
+<<<<<<< HEAD
+=======
+        <module name="spring-concurrent" />
+>>>>>>> ec9416c7ae4fe59da5de1c0ad5a57b79dd501e5c
         <module name="spring-rabbitmq" />
         <module name="spring-state-machine" />
         <module name="spring_batch" />
         <module name="spring_dubbo" />
         <module name="spring_dubbo_consumer" />
+<<<<<<< HEAD
+=======
+        <module name="spring_kafka" />
+>>>>>>> ec9416c7ae4fe59da5de1c0ad5a57b79dd501e5c
         <module name="spring_poi" />
         <module name="spring_prometheus" />
         <module name="spring_quartz" />
@@ -35,11 +43,19 @@
       <module name="mybatis-demo" target="1.8" />
       <module name="mybatis_demo" target="1.8" />
       <module name="spring-cache" target="1.8" />
+<<<<<<< HEAD
+=======
+      <module name="spring-concurrent" target="1.8" />
+>>>>>>> ec9416c7ae4fe59da5de1c0ad5a57b79dd501e5c
       <module name="spring-rabbitmq" target="1.8" />
       <module name="spring-state-machine" target="1.8" />
       <module name="spring_batch" target="1.8" />
       <module name="spring_dubbo" target="1.8" />
       <module name="spring_dubbo_consumer" target="1.8" />
+<<<<<<< HEAD
+=======
+      <module name="spring_kafka" target="1.8" />
+>>>>>>> ec9416c7ae4fe59da5de1c0ad5a57b79dd501e5c
       <module name="spring_poi" target="1.8" />
       <module name="spring_prometheus" target="1.8" />
       <module name="spring_quartz" target="1.8" />
