@@ -13,6 +13,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Mybatis 相关测试类
+ * @author zhouzhigang
+ */
 public class MybatisApplication {
 
 	public static void main(String[] args) {
