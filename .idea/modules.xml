@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aip_face/aip_face.iml" filepath="$PROJECT_DIR$/aip_face/aip_face.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-demo.iml" filepath="$PROJECT_DIR$/cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" filepath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" />

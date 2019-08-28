@@ -15,6 +15,6 @@ public class ConcurrentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConcurrentApplication.class, args);
-		EcombEngineV.init();
+//		EcombEngineV.init();
 	}
 }

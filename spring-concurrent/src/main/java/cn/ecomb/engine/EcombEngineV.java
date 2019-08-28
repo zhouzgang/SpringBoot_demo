@@ -73,14 +73,15 @@ public class EcombEngineV {
             //threadPool.shutdownNow();
         }
 
-        for (int i = 0; i < threadNum; i++) {
-            System.out.println(requests.get(i).getResponse().getUid() + ": " + requests.get(i).getResponse().getBody());
-        }
-
-        System.out.println("逻辑引擎处理完毕～～～");
-        return requests.stream()
-                .map(request -> request.getResponse())
-                .collect(Collectors.toList());
+//        for (int i = 0; i < threadNum; i++) {
+//            System.out.println(requests.get(i).getResponse().getUid() + ": " + requests.get(i).getResponse().getBody());
+//        }
+//
+//        System.out.println("逻辑引擎处理完毕～～～");
+//        return requests.stream()
+//                .map(request -> request.getResponse())
+//                .collect(Collectors.toList());
+        return null;
     }
 
     public void run() {

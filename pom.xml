@@ -31,6 +31,7 @@
         <module>spring_kafka</module>
         <module>spring_prometheus</module>
         <module>spring-concurrent</module>
+        <module>aip_face</module>
     </modules>
 
     <parent>
