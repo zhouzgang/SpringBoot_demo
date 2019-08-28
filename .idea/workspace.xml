@@ -2,19 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077dc90d-d36a-4f59-8e11-c4ae60063aa0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_aip_java_sdk_4_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aip_face/aip_face.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aip_face/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aip_face/src/main/java/cn/ecomb/face/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_aip_java_sdk_4_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_aip_java_sdk_4_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aip_face/aip_face.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aip_face/aip_face.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-discovery-euerka/microservice-discovery-euerka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/ConcurrentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/ConcurrentApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/EcombEngineV.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/EcombEngineV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cache/spring-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/spring-cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-concurrent/spring-concurrent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-concurrent/spring-concurrent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rabbitmq/spring-rabbitmq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-state-machine/spring-state-machine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_batch/spring_batch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_batch/spring_batch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_dubbo/spring_dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_dubbo/spring_dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_dubbo_consumer/spring_dubbo_consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_dubbo_consumer/spring_dubbo_consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_kafka/spring_kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_kafka/spring_kafka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_poi/spring_poi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_poi/spring_poi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_prometheus/spring_prometheus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_prometheus/spring_prometheus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_quartz/spring_quartz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_redis/spring_redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_redis/spring_redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_shrio/spring_shrio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_shrio/spring_shrio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_support/spring_support.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_support/spring_support.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_prometheus/target/" />
     <ignored path="$PROJECT_DIR$/spring_support/target/" />
@@ -48,88 +65,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuartzUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_quartz/src/main/java/cn/ecomb/spring/quartz/quartz/QuartzUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CacheStartApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="902">
+              <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_demo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="mybatisConfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/resources/mybatisConfig.xml">
+      <file leaf-file-name="UserServiceImlTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="337">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeesMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/resources/EmployeesMapper.xml">
+      <file leaf-file-name="UserServiceIml.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="400">
+              <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExamplePlugin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/plugin/ExamplePlugin.java">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrudRepository.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryByExampleExecutor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpaRepository.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/WebAdapter.java">
+      <file leaf-file-name="SimpleJpaRepository.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple1Interceptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/Simple1Interceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RetryAspect.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/RetryAspect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="-1142">
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -172,7 +193,6 @@
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/logic/RecommendationLogicHandler.java" />
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/Cylinder.java" />
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/Response.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/dto/Resquest.java" />
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/dto/POIList.java" />
         <option value="$PROJECT_DIR$/spring-concurrent/src/main/java/cn/ecomb/engine/dto/Request.java" />
@@ -185,6 +205,12 @@
         <option value="$PROJECT_DIR$/spring_quartz/src/main/java/cn/ecomb/spring/quartz/quartz/QuartzUtil.java" />
         <option value="$PROJECT_DIR$/aip_face/pom.xml" />
         <option value="$PROJECT_DIR$/aip_face/src/main/java/cn/ecomb/face/Sample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java" />
+        <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java" />
       </list>
     </option>
   </component>
@@ -199,8 +225,15 @@
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
         <option name="mavenHome" value="D:/workfile/devTools/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\workfile\devTools\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -222,8 +255,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,6 +406,39 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="support" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -397,7 +464,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,12 +476,12 @@
     <property name="SearchEverywhereHistoryKey" value="SimpleThreadPool&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/simpl/SimpleThreadPool.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.28525642" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -461,7 +527,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sample">
+  <component name="RunManager" selected="Spring Boot.CacheStartApplication">
     <configuration name="EcombEngineV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.ecomb.engine.EcombEngineV" />
       <module name="spring-concurrent" />
@@ -640,11 +706,12 @@
       <workItem from="1551426225574" duration="3877000" />
       <workItem from="1564412246933" duration="132000" />
       <workItem from="1564646664843" duration="2177000" />
+      <workItem from="1566964010309" duration="1996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56857000" />
+    <option name="totallyTimeSpent" value="58853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +728,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005562" side_tool="true" weight="0.43101603" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3298109" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -671,28 +738,28 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.63626254" weight="0.36509636" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49944383" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.18736617" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6351502" weight="0.47216275" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16595289" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22580644" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2815846" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22803114" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="JProfiler" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="REST Client" order="7" sideWeight="0.3637375" side_tool="true" weight="0.19572192" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.18736617" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,35 +793,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/org/springframework/core/io/support/ResourcePatternResolver.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/org/springframework/beans/factory/ListableBeanFactory.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-    <entry file="file://$PROJECT_DIR$/spring_quartz/src/main/java/cn/ecomb/spring/quartz/quartz/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_quartz/src/main/java/cn/ecomb/spring/quartz/quartz/JobOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/impl/StdSchedulerFactory.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/simpl/SimpleThreadPool.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/impl/QuartzServer.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/utils/PropertiesParser.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/quartz.properties" />
     <entry file="jar://C:/java/src.zip!/java/util/Properties.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/Scheduler.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/impl/SchedulerRepository.java" />
@@ -807,17 +849,17 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/baidu/aip/java-sdk/4.10.0/java-sdk-4.10.0-sources.jar!/com/baidu/aip/face/AipFace.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3-sources.jar!/org/quartz/core/QuartzSchedulerThread.java" />
-    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/dao/EmployeesMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="176">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="308">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -838,17 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/dao/EmployeesMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_demo/src/main/java/cn/ecomb/plugin/ExamplePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -861,15 +896,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/interceptor/Simple1Interceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="44">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/support/aspect/RetryAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        <state relative-caret-position="286">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Users/Administrator/.m2/repository/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1142">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceIml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/main/java/cn/ecomb/springcache/demo/CacheStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache/src/test/java/cn/ecomb/springcache/demo/service/UserService/impl/UserServiceImlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -938,7 +1069,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <last-edited>Maven: com.baidu.aip:java-sdk:4.10.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

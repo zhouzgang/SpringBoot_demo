@@ -52,14 +52,15 @@ public class CacheStartApplication {
 		};
 	}
 
-	@SuppressWarnings("rawtypes")
-	@Bean
-	public CacheManager cacheManager(RedisTemplate redisTemplate) {
-		RedisCacheManager rcm = new RedisCacheManager(redisTemplate);
-		//设置缓存过期时间
-		//rcm.setDefaultExpiration(60);//秒
-		return rcm;
-	}
+//	@SuppressWarnings("rawtypes")
+//	@Bean
+//	public CacheManager cacheManager() {
+//		RedisTemplate redisTemplate = new RedisTemplate();
+//		RedisCacheManager rcm = new RedisCacheManager(redisTemplate);
+//		//设置缓存过期时间
+//		//rcm.setDefaultExpiration(60);//秒
+//		return rcm;
+//	}
 
 	@Bean
 	public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {

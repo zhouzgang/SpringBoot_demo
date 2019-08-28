@@ -32,7 +32,8 @@ public class UserController {
                             @PathVariable Long id) {
         logger.warn(Thread.currentThread().getName());
         long start = System.currentTimeMillis();
-        User user = userService.getUserById(id.toString());
+//        User user = userService.getUserById(id.toString());
+        User user = null;
         long end = System.currentTimeMillis();
         long duration = end - start;
         logger.info("使用时间：{}", duration);
@@ -46,6 +47,7 @@ public class UserController {
 
     @GetMapping
     public User queryUser(@Validated UserParamVO userParamVO) {
-        return userService.findOne("1");
+//        return userService.findOne("1");
+        return null;
     }
 }
